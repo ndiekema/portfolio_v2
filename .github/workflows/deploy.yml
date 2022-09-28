@@ -1,0 +1,2 @@
+- name: Build & Deploy with Jekyll
+  uses: victoriadrake/jekyll-cd@v1.0
